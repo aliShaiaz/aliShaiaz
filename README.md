@@ -1,4 +1,6 @@
-### <h1 style="color: red">Hi there<h1>👋
+# Hi there 👋
+# Welcome to my Github
+### [Website:](https://www.alishaiaz.me)
 
 <!--
 **aliShaiaz/aliShaiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

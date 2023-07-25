@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Shaiaz</h2>
 <h3 align="center">A passionate full-stack developer from Bangladesh who loves to create...</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a51a6de-f960-4f82-b743-c1a61ea08a79/dbesgmc-15a0852a-dd64-461b-8613-33f4613f4d90.png/v1/fill/w_1024,h_576,q_80,strp/programming_wallpaper_by_affanindo_dbesgmc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMWE1MWE2ZGUtZjk2MC00ZjgyLWI3NDMtYzFhNjFlYTA4YTc5XC9kYmVzZ21jLTE1YTA4NTJhLWRkNjQtNDYxYi04NjEzLTMzZjQ2MTNmNGQ5MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gwWVGub2H-UkJum8Gs4nAG_BcOSOjWvj21ORAsFbeiw"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/65/48/596548a7a44fd378ff3b9a6f7960f49d.png"/>
 
 
 - 🌱 I’m currently learning **NestJS NextJS & TypeScript**
